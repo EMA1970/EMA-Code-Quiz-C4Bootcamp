@@ -4,12 +4,14 @@
 This project is built to test individual knowledge on web development and API. It is a part of the requirement of Module 3 roadmap. 
 
 Coding assessments are often an imortant part of the interview process of developers and employers use a cut-off score to group qualified candidates. This project contains a set of technical interview questions and the difficulty level increase with progression. Practice with this application to standout! 
-  
-This project helped the author learn how to utilize ___. 
+
 
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+
+![alt text](/Users/eileenma/bootcamp/EMA-Code-Quiz-C4Bootcamp/assets/Image/Screen Shot 2022-11-16 at 5.54.10 PM.png)
 
 ## Usage
 1. Open page by clicking on the attached Site URL: _____.
