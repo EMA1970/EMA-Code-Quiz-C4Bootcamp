@@ -1,7 +1,9 @@
 # <Coding Quiz>
 
 ## Description
-This project is built to test individual knowledge on web development and API. It is a part of the requirement of Module 3 roadmap. Coding assessments are often an imortant part of the interview process of developers and employers use a cut-off score to group qualified candidates. This project contains a set of technical interview questions and the difficulty level increase with progression. Practice with this application to standout! 
+This project is built to test individual knowledge on web development and API. It is a part of the requirement of Module 3 roadmap. 
+
+Coding assessments are often an imortant part of the interview process of developers and employers use a cut-off score to group qualified candidates. This project contains a set of technical interview questions and the difficulty level increase with progression. Practice with this application to standout! 
   
 This project helped the author learn how to utilize ___. 
 
